@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/badrul-devops/badrul-devops/master/cover/Earthy%20Minimalist%20Name%20LinkedIn%20Article%20Cover%20Image.jpg)](https://www.linkedin.com/in/badrul-devops/)
 
 <h1 align="center">Hi 👋, I'm Badrul ALam</h1>
-<h3 align="center">A passionate DevOps</h3>
+<h3 align="center">Passionate to Automation</h3>
 <img align="right" alt="Coding" width="400"src="https://i.pinimg.com/originals/88/e5/a4/88e5a4a52f0d7725c5e56364422b79fc.gif">
 
 
