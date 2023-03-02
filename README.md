@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:720/1*DluPjzT_eTUFdzHCI7JBZA.gif)](https://www.linkedin.com/in/badrul-devops/)
+[![MasterHead](https://raw.githubusercontent.com/badrul-devops/badrul-devops/master/cover/Earthy%20Minimalist%20Name%20LinkedIn%20Article%20Cover%20Image.jpg)](https://www.linkedin.com/in/badrul-devops/)
 
 <h1 align="center">Hi 👋, I'm Badrul ALam</h1>
 <h3 align="center">A passionate DevOps</h3>
